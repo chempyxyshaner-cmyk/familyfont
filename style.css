@@ -1,0 +1,59 @@
+header{
+    background-color: rgb(31, 30, 30);
+    padding-top: 10px; padding-left: 20px;
+    display: flex;
+    gap: 30px; 
+    justify-content: space-between;
+    padding: 15px 100px;
+    align-items: center;
+}
+.bola{
+    color: white;
+    font-size: 20px; 
+}
+
+nav{
+    display: flex;
+    gap: 70px;
+    align-items: center;
+    font-weight: 400;
+}
+.text{
+    width: 743px;
+    font-size: 90px;
+    margin-top: 180px;
+    text-align: center;
+    margin-left: 1100px;
+     font-weight: 700;
+}
+
+.card{
+    text-align: center;
+    width: 393px;
+    height: 396px;
+}
+
+.case{
+    margin: auto;
+    width: 1240px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+footer{
+    background-color: rgb(31, 31, 31);
+}
+.navikki{
+    justify-content: end; display: flex;
+     gap: 70px; padding-right: 100px;
+     font-weight: 500;
+     padding-bottom: 20px;
+}
+footer{
+    margin-top: 100px; padding: 5px 100px;
+}
+.rasmuch{
+    margin-left: 70px; 
+}
